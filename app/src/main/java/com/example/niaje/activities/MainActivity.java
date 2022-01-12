@@ -1,8 +1,10 @@
-package com.example.niaje;
+package com.example.niaje.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.niaje.R;
 
 public class MainActivity extends AppCompatActivity {
 

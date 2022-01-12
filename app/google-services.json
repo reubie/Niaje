@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484352802162",
+    "project_id": "niaje-app-931c8",
+    "storage_bucket": "niaje-app-931c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484352802162:android:6de5688052aef77f7631eb",
+        "android_client_info": {
+          "package_name": "com.example.niaje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484352802162-nbi8lhjo14dm6u58r0qh2m1b08pliql7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdBuXtNT1tUYT-BJrcdU7fyRXyafv8mgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484352802162-nbi8lhjo14dm6u58r0qh2m1b08pliql7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
